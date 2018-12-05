@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: f7162fc9213c18940825ff3bac981267
+timeCreated: 1487908754
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: playerSpriteshhet_0
+    21300002: playerSpriteshhet_1
+    21300004: playerSpriteshhet_2
+    21300006: playerSpriteshhet_3
+    21300008: playerSpriteshhet_4
+    21300010: playerSpriteshhet_5
+    21300012: playerSpriteshhet_6
+    21300014: playerSpriteshhet_7
+    21300016: playerSpriteshhet_8
+    21300018: playerSpriteshhet_9
+    21300020: playerSpriteshhet_10
+    21300022: playerSpriteshhet_11
+    21300024: playerSpriteshhet_12
+    21300026: playerSpriteshhet_13
+    21300028: playerSpriteshhet_14
+    21300030: playerSpriteshhet_15
+    21300032: playerSpriteshhet_16
+    21300034: playerSpriteshhet_17
+    21300036: playerSpriteshhet_18
+    21300038: playerSpriteshhet_19
+    21300040: playerSpriteshhet_20
+    21300042: playerSpriteshhet_21
+    21300044: playerSpriteshhet_22
+    21300046: playerSpriteshhet_23
+    21300048: playerSpriteshhet_24
+    21300050: playerSpriteshhet_25
+    21300052: playerSpriteshhet_26
+    21300054: playerSpriteshhet_27
+    21300056: playerSpriteshhet_28
+    21300058: playerSpriteshhet_29
+    21300060: playerSpriteshhet_30
+    21300062: playerSpriteshhet_31
+    21300064: playerSpriteshhet_32
+    21300066: playerSpriteshhet_33
+    21300068: playerSpriteshhet_34
+    21300070: playerSpriteshhet_35
+    21300072: playerSpriteshhet_36
+    21300074: playerSpriteshhet_37
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: playerSpriteshhet_0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 293
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 293
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 276
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 259
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 259
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 259
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 259
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_7
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 242
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 242
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 242
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 242
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 225
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 225
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 225
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_14
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 225
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 225
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 225
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 208
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 208
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 208
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_20
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 208
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_21
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 208
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_22
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 208
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_23
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 191
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 191
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_25
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 191
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 191
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_27
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 191
+        width: 17
+        height: 17
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 191
+        width: 17
+        height: 17
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_29
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 191
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_30
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 191
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_31
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 191
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_32
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 174
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_33
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 174
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_34
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 174
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_35
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 157
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_36
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 157
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: playerSpriteshhet_37
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 157
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

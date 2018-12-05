@@ -1,0 +1,792 @@
+fileFormatVersion: 2
+guid: 108dddba1c4099245ad5c862ed2b483c
+timeCreated: 1487908905
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TOWERSS2_0
+    21300002: TOWERSS2_1
+    21300004: TOWERSS2_2
+    21300006: TOWERSS2_3
+    21300008: TOWERSS2_4
+    21300010: TOWERSS2_5
+    21300012: TOWERSS2_6
+    21300014: TOWERSS2_7
+    21300016: TOWERSS2_8
+    21300018: TOWERSS2_9
+    21300020: TOWERSS2_10
+    21300022: TOWERSS2_11
+    21300024: TOWERSS2_12
+    21300026: TOWERSS2_13
+    21300028: TOWERSS2_14
+    21300030: TOWERSS2_15
+    21300032: TOWERSS2_16
+    21300034: TOWERSS2_17
+    21300036: TOWERSS2_18
+    21300038: TOWERSS2_19
+    21300040: TOWERSS2_20
+    21300042: TOWERSS2_21
+    21300044: TOWERSS2_22
+    21300046: TOWERSS2_23
+    21300048: TOWERSS2_24
+    21300050: TOWERSS2_25
+    21300052: TOWERSS2_26
+    21300054: TOWERSS2_27
+    21300056: TOWERSS2_28
+    21300058: TOWERSS2_31
+    21300060: TOWERSS2_32
+    21300062: TOWERSS2_33
+    21300064: TOWERSS2_34
+    21300066: TOWERSS2_35
+    21300068: TOWERSS2_36
+    21300070: TOWERSS2_37
+    21300072: TOWERSS2_38
+    21300074: TOWERSS2_39
+    21300076: TOWERSS2_40
+    21300078: TOWERSS2_41
+    21300080: TOWERSS2_42
+    21300082: TOWERSS2_43
+    21300084: TOWERSS2_44
+    21300086: TOWERSS2_45
+    21300088: TOWERSS2_46
+    21300090: TOWERSS2_47
+    21300092: TOWERSS2_48
+    21300094: TOWERSS2_49
+    21300096: TOWERSS2_50
+    21300098: TOWERSS2_51
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TOWERSS2_0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 293
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 293
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 276
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 276
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 259
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 259
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 259
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 259
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 259
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 242
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 242
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 242
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 242
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_13
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 242
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_14
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 242
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_15
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 242
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_16
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 225
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 225
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_18
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 225
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 225
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 225
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 191
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 191
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_23
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 208
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 208
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_25
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 208
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 208
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_27
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 208
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_28
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 208
+        width: 17
+        height: 17
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_31
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 191
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_32
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 191
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_33
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 191
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_34
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 191
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_35
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 191
+        width: 17
+        height: 17
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 191
+        width: 17
+        height: 17
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_37
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 191
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_38
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 191
+        width: 17
+        height: 17
+      alignment: 9
+      pivot: {x: 0.79, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_39
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 191
+        width: 17
+        height: 17
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_40
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 174
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_41
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 174
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_42
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 174
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_43
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 174
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_44
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 157
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_45
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 157
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_46
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 157
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_47
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 157
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_48
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 157
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_49
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 157
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_50
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 157
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TOWERSS2_51
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 140
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
